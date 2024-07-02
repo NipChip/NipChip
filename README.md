@@ -1,6 +1,6 @@
 Wonderfully mediocre software developer. ✨
 
-Profile picture was drawn by yours truly. Blep!
+PFP by me.
 
 <!---
 NipChip/NipChip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
